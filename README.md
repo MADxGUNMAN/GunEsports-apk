@@ -9,7 +9,7 @@
 
   **Manage and join PUBG Mobile tournaments with ease**
 
-  [**⬇️ Download Latest APK**](app-release.apk)
+  [**⬇️ Download Latest APK**](https://github.com/MADxGUNMAN/GunEsports-apk/releases/download/1.2.0-release/GunEsports.apk)
 </div>
 
 ---
